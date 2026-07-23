@@ -1,18 +1,18 @@
 {
-  "catalogVersion": 1,
+  "catalogVersion": 2,
   "songs": [
     {
       "id": "amin_manhahawi_taw",
-      "title": "Amin Manhahawi Taw",
+      "title": "Amin Manhahawì Taw",
       "audio": "amin_manhahawi_taw.mp3",
-      "pdf": "Amin Manhahawi Taw.pdf",
+      "lyrics": "amin_manhahawi_taw.txt",
       "enabled": true
     },
     {
       "id": "wada_kaugalingon_hi_jesus_ha_sala",
       "title": "Wadà Kaugalingon hi Jesus ha Salà",
       "audio": "wada_kaugalingon_hi_jesus_ha_sala.mp3",
-      "pdf": "wada kaugalingon hi Jesus ha sala.pdf",
+      "lyrics": "wada_kaugalingon_hi_jesus_ha_sala.txt",
       "enabled": true
     }
   ]
