@@ -9,8 +9,22 @@
       "enabled": true
     },
     {
+      "id": "iyan_igsukud_taw_su_bibliya_ku_kahintang_taw",
+      "title": "Iyan Igsukud Taw Su Bibliya Ku Kahintang Taw",
+      "audio": "iyan_igsukud_taw_su_bibliya_ku_kahintang_taw.mp3",
+      "lyrics": "iyan_igsukud_taw_su_bibliya_ku_kahintang_taw.txt",
+      "enabled": true
+    },
+    {
+      "id": "tumanan_ha_igbayad_ku_mga_sala_taw",
+      "title": "Tumanan Ha Igbayad Ku Mga Sala Taw",
+      "audio": "tumanan_ha_igbayad_ku_mga_sala_taw.mp3",
+      "lyrics": "tumanan_ha_igbayad_ku_mga_sala_taw.txt",
+      "enabled": true
+    },
+    {
       "id": "wada_kaugalingon_hi_jesus_ha_sala",
-      "title": "Wadà Kaugalingon hi Jesus ha Salà",
+      "title": "Wadà Kaugalingon Hi Jesus Ha Salà",
       "audio": "wada_kaugalingon_hi_jesus_ha_sala.mp3",
       "lyrics": "wada_kaugalingon_hi_jesus_ha_sala.txt",
       "enabled": true
