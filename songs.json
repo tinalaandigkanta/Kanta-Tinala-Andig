@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 21,
+  "catalogVersion": 22,
   "songs": [
     {
       "id": "su_otaw_ha_tagpaliliman_ku_mahagsay_ha_batbat",
@@ -30,6 +30,16 @@
       "lyricsFileName": "diyus_su_pigpun_an_ku_tibo.txt",
       "enabled": true,
       "createdAt": "2026-07-26T15:00:06.085Z"
+    },
+    {
+      "id": "amin_manhahawi_taw",
+      "title": "Amin Manhahawì taw",
+      "audioUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/songs/amin_manhahawi_taw.mp3",
+      "lyricsUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/lyrics/amin_manhahawi_taw.txt",
+      "audioFileName": "amin_manhahawi_taw.mp3",
+      "lyricsFileName": "amin_manhahawi_taw.txt",
+      "enabled": true,
+      "createdAt": "2026-07-26T22:46:13.148Z"
     }
   ]
 }
