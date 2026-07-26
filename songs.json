@@ -1,6 +1,24 @@
 {
-  "catalogVersion": 2,
+  "catalogVersion": 3,
   "songs": [
+    {
+      "id": "ms130ftr-bc111ad8",
+      "title": "Su mva otaw ha tagpaliliman ku mahagsay ha batbat",
+      "audio": "songs/su_mva_otaw_ha_tagpaliliman_ku_mahagsay_ha_batbat-ms130ftr-bc111ad8.mp3",
+      "pdf": "lyrics/su_mva_otaw_ha_tagpaliliman_ku_mahagsay_ha_batbat-ms130ftr-bc111ad8.pdf",
+      "audioUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/songs/su_mva_otaw_ha_tagpaliliman_ku_mahagsay_ha_batbat-ms130ftr-bc111ad8.mp3",
+      "pdfUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/lyrics/su_mva_otaw_ha_tagpaliliman_ku_mahagsay_ha_batbat-ms130ftr-bc111ad8.pdf",
+      "lyricsUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/lyrics/su_mva_otaw_ha_tagpaliliman_ku_mahagsay_ha_batbat-ms130ftr-bc111ad8.pdf",
+      "audioFileName": "1785027039532_Su_otaw_ha_tagpaliliman_ku_mahagsay_ha_Batbat.mp3",
+      "pdfFileName": "1785027039612_Su_otaw_ha_mogpaliliman_ku_mahagsay_ha_batbat.pdf",
+      "lyricsFileName": "1785027039612_Su_otaw_ha_mogpaliliman_ku_mahagsay_ha_batbat.pdf",
+      "audioSize": 6088421,
+      "pdfSize": 18954,
+      "createdAt": "2026-07-26T00:50:46.466Z",
+      "updatedAt": "2026-07-26T00:50:46.466Z",
+      "enabled": true,
+      "version": 1
+    },
     {
       "id": "amin_manhahawi_taw",
       "title": "Amin Manhahawì Taw",
