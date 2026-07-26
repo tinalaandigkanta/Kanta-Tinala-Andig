@@ -1,13 +1,6 @@
 {
-  "catalogVersion": 10,
+  "catalogVersion": 11,
   "songs": [
-    {
-      "id": "amin_manhahawi_taw",
-      "title": "Amin Manhahawì Taw",
-      "audio": "amin_manhahawi_taw.mp3",
-      "lyrics": "amin_manhahawi_taw.txt",
-      "enabled": true
-    },
     {
       "id": "su_otaw_ha_tagpaliliman_ku_mahagsay_ha_batbat",
       "title": "Su otaw ha tagpaliliman ku mahagsay ha Batbat",
