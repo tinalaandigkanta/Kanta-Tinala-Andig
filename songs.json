@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 19,
+  "catalogVersion": 20,
   "songs": [
     {
       "id": "amin_manhahawi_taw",
@@ -30,6 +30,16 @@
       "lyricsFileName": "langosa_hi_jesus_su_imbayad_ku_sala_taw.txt",
       "enabled": true,
       "createdAt": "2026-07-26T14:53:43.230Z"
+    },
+    {
+      "id": "diyus_su_pigpun_an_ku_tibo",
+      "title": "Diyus su pigpun-an ku Tibo",
+      "audioUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/songs/diyus_su_pigpun_an_ku_tibo.mp3",
+      "lyricsUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/lyrics/diyus_su_pigpun_an_ku_tibo.txt",
+      "audioFileName": "diyus_su_pigpun_an_ku_tibo.mp3",
+      "lyricsFileName": "diyus_su_pigpun_an_ku_tibo.txt",
+      "enabled": true,
+      "createdAt": "2026-07-26T15:00:06.085Z"
     }
   ]
 }
