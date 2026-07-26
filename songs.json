@@ -1,4 +1,15 @@
 {
-  "catalogVersion": 14,
-  "songs": []
+  "catalogVersion": 15,
+  "songs": [
+    {
+      "id": "amin_manhahawi_taw",
+      "title": "Amin Manhahawì taw",
+      "audioUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/songs/amin_manhahawi_taw.mp3",
+      "lyricsUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/lyrics/amin_manhahawi_taw.txt",
+      "audioFileName": "amin_manhahawi_taw.mp3",
+      "lyricsFileName": "amin_manhahawi_taw.txt",
+      "enabled": true,
+      "createdAt": "2026-07-26T11:44:02.221Z"
+    }
+  ]
 }
