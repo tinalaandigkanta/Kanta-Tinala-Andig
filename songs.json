@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 33,
+  "catalogVersion": 34,
   "songs": [
     {
       "id": "su_otaw_ha_tagpaliliman_ku_mahagsay_ha_batbat",
@@ -47,14 +47,15 @@
     },
     {
       "id": "pinalangga_a_hi_jesus",
-      "title": "Pinalanggà a hi Jesus",
+      "title": "Pinalanggà a man hi Jesus",
       "audioUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/songs/pinalangga_a_hi_jesus.mp3",
       "lyricsUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/lyrics/pinalangga_a_hi_jesus.txt",
       "audioFileName": "pinalangga_a_hi_jesus.mp3",
       "lyricsFileName": "pinalangga_a_hi_jesus.txt",
       "enabled": true,
       "category": "children",
-      "createdAt": "2026-08-12T10:38:47.963Z"
+      "createdAt": "2026-08-12T10:38:47.963Z",
+      "updatedAt": "2026-08-12T10:42:58.500Z"
     }
   ]
 }
