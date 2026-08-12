@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 27,
+  "catalogVersion": 28,
   "songs": [
     {
       "id": "su_otaw_ha_tagpaliliman_ku_mahagsay_ha_batbat",
@@ -23,7 +23,7 @@
       "enabled": true,
       "createdAt": "2026-07-26T14:53:43.230Z",
       "category": "regular",
-      "updatedAt": "2026-08-12T10:35:52.411Z"
+      "updatedAt": "2026-08-12T10:35:58.541Z"
     },
     {
       "id": "diyus_su_pigpun_an_ku_tibo",
