@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 22,
+  "catalogVersion": 23,
   "songs": [
     {
       "id": "su_otaw_ha_tagpaliliman_ku_mahagsay_ha_batbat",
@@ -40,6 +40,17 @@
       "lyricsFileName": "amin_manhahawi_taw.txt",
       "enabled": true,
       "createdAt": "2026-07-26T22:46:13.148Z"
+    },
+    {
+      "id": "pinalangga_a_hi_jesus",
+      "title": "Pinalanggà a hi Jesus",
+      "audioUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/songs/pinalangga_a_hi_jesus.mp3",
+      "lyricsUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/lyrics/pinalangga_a_hi_jesus.txt",
+      "audioFileName": "pinalangga_a_hi_jesus.mp3",
+      "lyricsFileName": "pinalangga_a_hi_jesus.txt",
+      "enabled": true,
+      "category": "children",
+      "createdAt": "2026-08-12T09:43:51.054Z"
     }
   ]
 }
