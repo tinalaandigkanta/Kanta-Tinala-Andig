@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 45,
+  "catalogVersion": 46,
   "songs": [
     {
       "id": "su_otaw_ha_tagpaliliman_ku_mahagsay_ha_batbat",
@@ -56,18 +56,6 @@
       "category": "children",
       "createdAt": "2026-08-12T10:38:47.963Z",
       "updatedAt": "2026-08-12T10:46:43.210Z"
-    },
-    {
-      "id": "epeso_kapitulu_1",
-      "title": "Epeso Kapitulu 1",
-      "audioUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/songs/epeso_kapitulu_1.mp3",
-      "lyricsUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/lyrics/epeso_kapitulu_1.txt",
-      "audioFileName": "epeso_kapitulu_1.mp3",
-      "lyricsFileName": "epeso_kapitulu_1.txt",
-      "enabled": true,
-      "category": "regular",
-      "createdAt": "2026-08-23T10:52:18.877Z",
-      "updatedAt": "2026-08-23T11:02:23.503Z"
     },
     {
       "id": "kana_ku_epeso_kapitulu_1",
