@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 50,
+  "catalogVersion": 51,
   "songs": [
     {
       "id": "su_otaw_ha_tagpaliliman_ku_mahagsay_ha_batbat",
@@ -43,7 +43,9 @@
       "audioFileName": "amin_manhahawi_taw.mp3",
       "lyricsFileName": "amin_manhahawi_taw.txt",
       "enabled": true,
-      "createdAt": "2026-07-26T22:46:13.148Z"
+      "createdAt": "2026-07-26T22:46:13.148Z",
+      "category": "regular",
+      "updatedAt": "2026-09-22T02:50:26.007Z"
     },
     {
       "id": "pinalangga_a_hi_jesus",
