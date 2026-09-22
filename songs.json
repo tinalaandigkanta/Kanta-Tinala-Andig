@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 56,
+  "catalogVersion": 57,
   "songs": [
     {
       "id": "su_otaw_ha_tagpaliliman_ku_mahagsay_ha_batbat",
@@ -80,6 +80,17 @@
       "enabled": true,
       "category": "regular",
       "createdAt": "2026-09-22T03:02:45.641Z"
+    },
+    {
+      "id": "amin_manhahawi_taw",
+      "title": "Amin Manhahawi taw",
+      "audioUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/songs/amin_manhahawi_taw.mp3",
+      "lyricsUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/lyrics/amin_manhahawi_taw.txt",
+      "audioFileName": "amin_manhahawi_taw.mp3",
+      "lyricsFileName": "amin_manhahawi_taw.txt",
+      "enabled": true,
+      "category": "regular",
+      "createdAt": "2026-09-22T03:06:23.626Z"
     }
   ]
 }
