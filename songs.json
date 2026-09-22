@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 53,
+  "catalogVersion": 54,
   "songs": [
     {
       "id": "su_otaw_ha_tagpaliliman_ku_mahagsay_ha_batbat",
@@ -70,6 +70,17 @@
       "category": "regular",
       "createdAt": "2026-09-04T03:21:58.166Z",
       "updatedAt": "2026-09-06T01:44:48.577Z"
+    },
+    {
+      "id": "su_puun_ha_makakilala_kiw_ku_hinang_ku_satanas",
+      "title": "Su puun ha makakilala kiw ku hinang ku satanas",
+      "audioUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/songs/su_puun_ha_makakilala_kiw_ku_hinang_ku_satanas.mp3",
+      "lyricsUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/lyrics/su_puun_ha_makakilala_kiw_ku_hinang_ku_satanas.txt",
+      "audioFileName": "su_puun_ha_makakilala_kiw_ku_hinang_ku_satanas.mp3",
+      "lyricsFileName": "su_puun_ha_makakilala_kiw_ku_hinang_ku_satanas.txt",
+      "enabled": true,
+      "category": "regular",
+      "createdAt": "2026-09-22T02:59:14.897Z"
     }
   ]
 }
