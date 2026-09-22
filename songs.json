@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 54,
+  "catalogVersion": 55,
   "songs": [
     {
       "id": "su_otaw_ha_tagpaliliman_ku_mahagsay_ha_batbat",
@@ -81,6 +81,17 @@
       "enabled": true,
       "category": "regular",
       "createdAt": "2026-09-22T02:59:14.897Z"
+    },
+    {
+      "id": "in_inuwon_taw_sa_pogpaliliman_taw_ku_mahagsay_ha_batbat_ku_diyus",
+      "title": "In-inuwon taw sa pogpaliliman taw ku mahagsay ha batbat ku Diyus",
+      "audioUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/songs/in_inuwon_taw_sa_pogpaliliman_taw_ku_mahagsay_ha_batbat_ku_diyus.mp3",
+      "lyricsUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/lyrics/in_inuwon_taw_sa_pogpaliliman_taw_ku_mahagsay_ha_batbat_ku_diyus.txt",
+      "audioFileName": "in_inuwon_taw_sa_pogpaliliman_taw_ku_mahagsay_ha_batbat_ku_diyus.mp3",
+      "lyricsFileName": "in_inuwon_taw_sa_pogpaliliman_taw_ku_mahagsay_ha_batbat_ku_diyus.txt",
+      "enabled": true,
+      "category": "regular",
+      "createdAt": "2026-09-22T03:02:45.641Z"
     }
   ]
 }
