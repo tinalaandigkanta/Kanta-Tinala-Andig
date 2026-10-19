@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 75,
+  "catalogVersion": 76,
   "songs": [
     {
       "id": "su_otaw_ha_tagpaliliman_ku_mahagsay_ha_batbat",
@@ -33,7 +33,9 @@
       "audioFileName": "diyus_su_pigpun_an_ku_tibo.mp3",
       "lyricsFileName": "diyus_su_pigpun_an_ku_tibo.txt",
       "enabled": true,
-      "createdAt": "2026-07-26T15:00:06.085Z"
+      "createdAt": "2026-07-26T15:00:06.085Z",
+      "category": "regular",
+      "updatedAt": "2026-10-19T07:04:34.945Z"
     },
     {
       "id": "pinalangga_a_hi_jesus",
