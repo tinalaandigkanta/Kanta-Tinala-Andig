@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 72,
+  "catalogVersion": 73,
   "songs": [
     {
       "id": "su_otaw_ha_tagpaliliman_ku_mahagsay_ha_batbat",
@@ -92,18 +92,6 @@
       "category": "regular",
       "createdAt": "2026-09-22T03:06:23.626Z",
       "updatedAt": "2026-09-22T03:07:28.032Z"
-    },
-    {
-      "id": "test_1",
-      "title": "Test 1 edit 2",
-      "audioUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/songs/test_1.mp3",
-      "lyricsUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/lyrics/test_1.txt",
-      "audioFileName": "test_1.mp3",
-      "lyricsFileName": "test_1.txt",
-      "enabled": true,
-      "category": "roma",
-      "createdAt": "2026-10-19T06:13:11.489Z",
-      "updatedAt": "2026-10-19T06:34:53.136Z"
     }
   ]
 }
