@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 69,
+  "catalogVersion": 70,
   "songs": [
     {
       "id": "su_otaw_ha_tagpaliliman_ku_mahagsay_ha_batbat",
@@ -95,7 +95,7 @@
     },
     {
       "id": "01_test",
-      "title": "01 Test Edit",
+      "title": "01 Test Edit 2",
       "audioUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/songs/01_test.mp3",
       "lyricsUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/lyrics/01_test.txt",
       "audioFileName": "01_test.mp3",
@@ -103,7 +103,7 @@
       "enabled": true,
       "category": "epeso",
       "createdAt": "2026-10-19T06:12:25.689Z",
-      "updatedAt": "2026-10-19T06:14:39.367Z"
+      "updatedAt": "2026-10-19T06:34:24.272Z"
     },
     {
       "id": "test_1",
