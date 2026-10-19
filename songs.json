@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 60,
+  "catalogVersion": 61,
   "songs": [
     {
       "id": "su_otaw_ha_tagpaliliman_ku_mahagsay_ha_batbat",
@@ -102,7 +102,8 @@
       "lyricsFileName": "test_001.txt",
       "enabled": true,
       "category": "epeso",
-      "createdAt": "2026-10-19T05:46:46.336Z"
+      "createdAt": "2026-10-19T05:46:46.336Z",
+      "updatedAt": "2026-10-19T05:54:28.562Z"
     },
     {
       "id": "test_001_2",
