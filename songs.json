@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 84,
+  "catalogVersion": 85,
   "songs": [
     {
       "id": "su_otaw_ha_tagpaliliman_ku_mahagsay_ha_batbat",
@@ -159,6 +159,17 @@
       "enabled": true,
       "category": "regular",
       "createdAt": "2026-10-20T07:03:19.104Z"
+    },
+    {
+      "id": "su_ginoo_iyan_tagbantay_kanak",
+      "title": "Su Ginoo iyan tagbantay kanak",
+      "audioUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/songs/su_ginoo_iyan_tagbantay_kanak.mp3",
+      "lyricsUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/lyrics/su_ginoo_iyan_tagbantay_kanak.txt",
+      "audioFileName": "su_ginoo_iyan_tagbantay_kanak.mp3",
+      "lyricsFileName": "su_ginoo_iyan_tagbantay_kanak.txt",
+      "enabled": true,
+      "category": "regular",
+      "createdAt": "2026-10-20T07:04:16.230Z"
     }
   ]
 }
