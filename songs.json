@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 77,
+  "catalogVersion": 78,
   "songs": [
     {
       "id": "su_otaw_ha_tagpaliliman_ku_mahagsay_ha_batbat",
@@ -82,6 +82,17 @@
       "category": "regular",
       "createdAt": "2026-09-22T03:06:23.626Z",
       "updatedAt": "2026-09-22T03:07:28.032Z"
+    },
+    {
+      "id": "amin_aldaw_ha_tagsalapon_taw",
+      "title": "Amin aldaw ha tagsalapon taw",
+      "audioUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/songs/amin_aldaw_ha_tagsalapon_taw.mp3",
+      "lyricsUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/lyrics/amin_aldaw_ha_tagsalapon_taw.txt",
+      "audioFileName": "amin_aldaw_ha_tagsalapon_taw.mp3",
+      "lyricsFileName": "amin_aldaw_ha_tagsalapon_taw.txt",
+      "enabled": true,
+      "category": "regular",
+      "createdAt": "2026-10-20T06:54:33.744Z"
     }
   ]
 }
