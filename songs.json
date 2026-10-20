@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 85,
+  "catalogVersion": 86,
   "songs": [
     {
       "id": "su_otaw_ha_tagpaliliman_ku_mahagsay_ha_batbat",
@@ -170,6 +170,17 @@
       "enabled": true,
       "category": "regular",
       "createdAt": "2026-10-20T07:04:16.230Z"
+    },
+    {
+      "id": "su_labaw_ku_tibo",
+      "title": "Su labaw ku tibò",
+      "audioUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/songs/su_labaw_ku_tibo.mp3",
+      "lyricsUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/lyrics/su_labaw_ku_tibo.txt",
+      "audioFileName": "su_labaw_ku_tibo.mp3",
+      "lyricsFileName": "su_labaw_ku_tibo.txt",
+      "enabled": true,
+      "category": "regular",
+      "createdAt": "2026-10-20T07:05:05.487Z"
     }
   ]
 }
