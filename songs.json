@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 80,
+  "catalogVersion": 81,
   "songs": [
     {
       "id": "su_otaw_ha_tagpaliliman_ku_mahagsay_ha_batbat",
@@ -115,6 +115,17 @@
       "enabled": true,
       "category": "regular",
       "createdAt": "2026-10-20T06:57:30.600Z"
+    },
+    {
+      "id": "iyan_da_si_cristo_su_taghinamon_taw",
+      "title": "Iyan dà si Cristo su taghinamon taw",
+      "audioUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/songs/iyan_da_si_cristo_su_taghinamon_taw.mp3",
+      "lyricsUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/lyrics/iyan_da_si_cristo_su_taghinamon_taw.txt",
+      "audioFileName": "iyan_da_si_cristo_su_taghinamon_taw.mp3",
+      "lyricsFileName": "iyan_da_si_cristo_su_taghinamon_taw.txt",
+      "enabled": true,
+      "category": "regular",
+      "createdAt": "2026-10-20T06:59:40.997Z"
     }
   ]
 }
