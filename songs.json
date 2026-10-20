@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 82,
+  "catalogVersion": 83,
   "songs": [
     {
       "id": "su_otaw_ha_tagpaliliman_ku_mahagsay_ha_batbat",
@@ -137,6 +137,17 @@
       "enabled": true,
       "category": "regular",
       "createdAt": "2026-10-20T07:01:07.103Z"
+    },
+    {
+      "id": "si_jesus_da_su_puun_ku_kaluwasan_taw",
+      "title": "Si Jesus dà su puun ku kaluwasan taw",
+      "audioUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/songs/si_jesus_da_su_puun_ku_kaluwasan_taw.mp3",
+      "lyricsUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/lyrics/si_jesus_da_su_puun_ku_kaluwasan_taw.txt",
+      "audioFileName": "si_jesus_da_su_puun_ku_kaluwasan_taw.mp3",
+      "lyricsFileName": "si_jesus_da_su_puun_ku_kaluwasan_taw.txt",
+      "enabled": true,
+      "category": "regular",
+      "createdAt": "2026-10-20T07:02:18.027Z"
     }
   ]
 }
