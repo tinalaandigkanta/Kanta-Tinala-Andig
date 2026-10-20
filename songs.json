@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 81,
+  "catalogVersion": 82,
   "songs": [
     {
       "id": "su_otaw_ha_tagpaliliman_ku_mahagsay_ha_batbat",
@@ -126,6 +126,17 @@
       "enabled": true,
       "category": "regular",
       "createdAt": "2026-10-20T06:59:40.997Z"
+    },
+    {
+      "id": "iyan_su_diyus_su_batu_ha_abutanan_taw",
+      "title": "Iyan su Diyus su batu ha abutanan taw",
+      "audioUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/songs/iyan_su_diyus_su_batu_ha_abutanan_taw.mp3",
+      "lyricsUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/lyrics/iyan_su_diyus_su_batu_ha_abutanan_taw.txt",
+      "audioFileName": "iyan_su_diyus_su_batu_ha_abutanan_taw.mp3",
+      "lyricsFileName": "iyan_su_diyus_su_batu_ha_abutanan_taw.txt",
+      "enabled": true,
+      "category": "regular",
+      "createdAt": "2026-10-20T07:01:07.103Z"
     }
   ]
 }
