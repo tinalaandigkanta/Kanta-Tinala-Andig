@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 78,
+  "catalogVersion": 79,
   "songs": [
     {
       "id": "su_otaw_ha_tagpaliliman_ku_mahagsay_ha_batbat",
@@ -93,6 +93,17 @@
       "enabled": true,
       "category": "regular",
       "createdAt": "2026-10-20T06:54:33.744Z"
+    },
+    {
+      "id": "adagi_su_pogpalangga_ku_diyus_ku_tibo_ha_hininang_din",
+      "title": "Adagi su pogpalanggà ku Diyus ku tibò ha hininang din",
+      "audioUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/songs/adagi_su_pogpalangga_ku_diyus_ku_tibo_ha_hininang_din.mp3",
+      "lyricsUrl": "https://raw.githubusercontent.com/tinalaandigkanta/Kanta-Tinala-Andig/main/lyrics/adagi_su_pogpalangga_ku_diyus_ku_tibo_ha_hininang_din.txt",
+      "audioFileName": "adagi_su_pogpalangga_ku_diyus_ku_tibo_ha_hininang_din.mp3",
+      "lyricsFileName": "adagi_su_pogpalangga_ku_diyus_ku_tibo_ha_hininang_din.txt",
+      "enabled": true,
+      "category": "regular",
+      "createdAt": "2026-10-20T06:56:18.394Z"
     }
   ]
 }
